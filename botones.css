@@ -1,0 +1,43 @@
+#menu{
+    width: 22.25%;
+    height: 10%;
+    background: none;
+   position: fixed;
+   left: 38.875%;
+   top: 80%;
+   box-shadow: inset 0 0 0 2px rgb(125, 1, 183);
+   background-image: url("https://share.creavite.co/3R8bHmzus6J93A7r.gif%22");
+    background-size: cover;
+    background-position-y: 55%;
+    border-radius: 15%;
+    cursor: pointer;
+}
+#vip{
+    width: 22.25%;
+    height: 10%;
+    background: none;
+   position: fixed;
+   left: 9%;
+   top: 80%;
+   box-shadow: inset 0 0 0 2px rgb(125, 1, 183);
+   background-image: url("https://share.creavite.co/yCpHjjoUJyxOctfy.gif%22");
+    background-size: cover;
+    background-position-y: 55%;
+    border-radius: 15%;
+    cursor: pointer;
+}
+#discord{
+    width: 22.25%;
+    height: 10%;
+    background: none;
+   position: fixed;
+   left: 68.75%;
+   top: 80%;
+   box-shadow: inset 0 0 0 2px rgb(125, 1, 183);
+   background-image: url("https://share.creavite.co/6Dh1TLJsWru5DrlQ.gif%22");
+   background-size: cover;
+   background-position-y: 55%;
+   border-radius: 15%;
+   cursor: pointer;
+   
+}

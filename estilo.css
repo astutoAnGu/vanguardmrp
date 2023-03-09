@@ -1,0 +1,79 @@
+.vips{
+    opacity: 100%;}
+.vips.imagenvip
+{ 
+   
+   background: url(https://cdn.discordapp.com/attachments/1055853765921603640/1083134824476332072/Sin_titulo-1.png);
+   width: 70%;
+   height: 59%;
+   position: fixed;
+   top: 12.5%;
+   left: 15.5%;
+   border-radius: 50px;
+   background-position-y: 20%;
+   background-size: cover;
+   animation-name: animation-vips;
+   animation-duration: 8s;
+   background-position: top 50%;
+}
+.fusion{opacity: 100%;}
+.fusion.fusioncolor
+{
+    content: "";
+position: absolute;
+top: 12%;
+left: 15%;
+z-index: -1;
+width: 71%;
+height: 60%;
+background: linear-gradient(45deg , rgb(119, 0, 255), rgb(0, 38, 255), rgb(5, 149, 14), 
+blue, rgb(119, 0, 255), rgb(0, 38, 255), rgb(5, 149, 14), rgb(0, 38, 255));
+background-size: 800%;
+border-radius: 50px;
+filter: blur(8px);
+animation: animation-fusion 8s;
+}
+@keyframes animation-vips{
+    0% {top: -80%;}
+    50% {top: 12.5%;}
+}
+@keyframes animation-fusion{
+    0% {top: -80%;}
+    50% {top: 12.5%;}
+}
+.menunada{
+    opacity: 100%;}
+.menunada.menuimg
+{ 
+   
+   background: url(https://cdn.discordapp.com/attachments/1068225330084593765/1083469906894393376/INICIO.png);
+   width: 70%;
+   height: 65%;
+   position: fixed;
+   top: 11%;
+   left: 15.5%;
+   border-radius: 50px;
+   background-position-y: 20%;
+   background-size: 90%;
+   animation-name: animation-vips;
+   animation-duration: 8s;
+   background-position: top 50%;
+   background-size: cover;
+}
+.fusion2{opacity: 100%;}
+.fusion2.fusioncolor2
+{
+    content: "";
+position: absolute;
+top: 11%;
+left: 15%;
+z-index: -1;
+width: 71%;
+height: 66%;
+background: linear-gradient(45deg , rgb(119, 0, 255), rgb(0, 38, 255), rgb(5, 149, 14), 
+blue, rgb(119, 0, 255), rgb(0, 38, 255), rgb(5, 149, 14), rgb(0, 38, 255));
+background-size: 800%;
+border-radius: 50px;
+filter: blur(8px);
+animation: animation-fusion 8s;
+}
